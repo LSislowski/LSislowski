@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hey there 👋, I'm Luke</h1>
-<h3 align="left">Data Scientist</h3>
+<h3 align="left">GTM Engineer</h3>
 
 🔭 I’m currently learning about **public markets, monetary policy, macro strategy.**
 
@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/luke-sislowski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lsislowski" height="30" width="40" /></a>
-<a href="https://kaggle.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lsislowski" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lsislowski" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
