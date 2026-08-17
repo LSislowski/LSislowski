@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently learning about **public markets, monetary policy, macro strategy.**
 
-🌱 I want to learn **Front End Development - Javascript.**
-
 👯 I’m looking to collaborate on **tools to aid in financial education and/or an algorithmic trading strategy.**
 
 💬 Ask me about **Photography and Community.**
