@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="left">Hey there 👋, I'm Luke</h1>
 <h3 align="left">GTM Engineer</h3>
 
-🔭 I’m currently learning about **public markets, monetary policy, macro strategy.**
+🔭 I’m currently learning about **public markets, monetary policy, macroeconomics.**
 
 👯 I’m looking to collaborate on **tools to aid in financial education and/or an algorithmic trading strategy.**
 
